@@ -1,0 +1,73 @@
+.divdois {
+	border-top: 3px solid hotpink;
+
+}
+
+.colegio {
+	top: 0px;
+	left: 20px;
+}
+
+.gatinhos {
+	margin-top: 10px;
+	font-size: 40px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.textoum {
+	font-size: 25px;
+	margin:10px 10px 30px 30px;
+
+}
+
+.semafaro1 {
+	width: 310px;
+	margin:10px 10px 10px 30px;
+}
+
+.lista {
+	text-align: left;
+	font-size: 20px;
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin: 40px 40px 40px 10px;
+	height: 500px;
+	width: 800px;
+}
+
+.divtres {
+	border-top: 3px solid hotpink;
+}
+
+.ponto {
+	font-size: 30px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+.box {
+	width: 5%;
+	display: inline-block;
+	padding: 10px 150px;
+	text-align: center;
+}
+
+.imagens {
+	width: 200px;
+	height: 200px;
+}
+
+.letras {
+	font-size: 25px;
+	text-align: center;
+	text-decoration: underline;
+	color: hotpink;
+}
+
+.falas {
+	font-size: 20px;
+	width: 200px;
+}
