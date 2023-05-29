@@ -250,7 +250,7 @@
 }
 
 .cabeçalho {
-    background-color: rgb(45, 52, 75);
+    background-color: rgba(194, 0, 152, 0.87);
     color: white;
     display: flex;
     justify-content: space-around;
